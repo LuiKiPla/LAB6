@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<boxes>
+    <box>
+        <name>Продукты</name>
+        <weight>5.0</weight>
+        <contents>
+            <content>Яблоки</content>
+            <content>Молоко</content>
+            <content>Хлеб</content>
+        </contents>
+    </box>
+    <box>
+        <name>Электроника</name>
+        <weight>3.0</weight>
+        <contents>
+            <content>Телефон</content>
+            <content>Ноутбук</content>
+        </contents>
+    </box>
+</boxes>
